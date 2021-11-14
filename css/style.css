@@ -107,14 +107,14 @@ body input[type="text"],body input[type="submit"],body textarea,body input[type=
 a.downarrow  span{
  	height:48px;
     width:48px;
-    background:url(../images/down.png);
+    background:url(../images/bwn.png);
     display:inline-block;
 }
 a.downarrow{
   	display: block;
 	position: absolute;
-	top: 370px;
-	left: 17%;
+	top: 200px;
+	left: 10%;
 }
 .bannerhead{
 	position: relative;
@@ -122,8 +122,8 @@ a.downarrow{
 }
 .banner-info{
 	position: relative;
-	top: 182px;
-	left: 11%;
+	top: 382px;
+	left: 23%;
 }
 /*------ About STARTS---------*/
 .about{
@@ -560,8 +560,8 @@ p.copy-right a{
 		left: 2%;
 	}
 	a.downarrow {
-		top: 241px;
-		left: 32%;
+		top: 196px;
+		left: 40%;
 	}
 	.years {
 		margin-bottom: 2em;
